@@ -1,6 +1,6 @@
 
 
-### simple rest api starter with express, ts, mongoose
+### simple rest api starter with express, ts, and DETA.SH
 
 * register
 * login
